@@ -87,22 +87,6 @@ console.log(`Producto: ${product.name}`);
 console.log(`Precio: $${product.price}`);
 console.log(`Descripción: ${product.details.description}`);
 
-// Array 
-const products = [
-    { 
-        name: "Dolo - Neurobion Amp.",
-        price: 20.07 
-    },
-    { 
-        name: "Analgan Comp.", 
-        price: 7.80 
-    },
-    { 
-        name: "TensiFlex Comp.", 
-        price: 2.70 
-
-    }
-];
 
 
 
